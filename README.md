@@ -1,4 +1,4 @@
-##LibrarianPro: Library Management System
+## LibrarianPro: Library Management System
 
 This Employee Management System is a web application designed to streamline the management of employees within an organization. Leveraging Java technologies such as JDBC, Servlets, JSP, and session tracking mechanisms, this project offers a comprehensive solution for HR departments or managers to efficiently handle employee data.
 
