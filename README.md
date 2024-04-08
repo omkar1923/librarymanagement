@@ -30,3 +30,16 @@ To run the application locally:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+##Screenshots
+![Screenshot 2024-04-09 014545](https://github.com/omkar1923/librarymanagement/assets/109940631/7e9fcc98-73b4-45b7-8130-70819843c73c)
+
+![Screenshot 2024-04-09 014848](https://github.com/omkar1923/librarymanagement/assets/109940631/fabc8cb9-8ce9-4b11-b7b5-898715c6a4aa)
+
+![Screenshot 2024-04-09 015007](https://github.com/omkar1923/librarymanagement/assets/109940631/cd172018-45eb-42fc-bc30-660386048add)
+
+![Screenshot 2024-04-09 015039](https://github.com/omkar1923/librarymanagement/assets/109940631/57f5fe6c-d06f-4673-8de0-d9ce5fb360fe)
+
+![Screenshot 2024-04-09 015142](https://github.com/omkar1923/librarymanagement/assets/109940631/d406ebda-8e55-401d-8a51-17521111917c)
+
+![Screenshot 2024-04-09 015214](https://github.com/omkar1923/librarymanagement/assets/109940631/2b1472ce-0648-4a96-8c46-fa2f42f19e27)
